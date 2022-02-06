@@ -2,7 +2,7 @@
 
 
 
-   ["downward_fortnite"] = {"export@downward_fortnite", "Downward_fortnite", "Downward", AnimationOptions =
+  ``` ["downward_fortnite"] = {"export@downward_fortnite", "Downward_fortnite", "Downward", AnimationOptions =
    {
       EmoteMoving = false,
       EmoteLoop = true,
